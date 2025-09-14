@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar dados de espectroscopia de uma variedade de manga utilizando técnicas de machine learning para identificar padrões e prever atributos de qualidade como SST (Sólidos Solúveis Totais), AT (Acidez Total), Firmeza ~COLOCAR O RESTANTE~. O pipeline é organizado com base no código de Andressa (mais informações abaixo), o qual está dividido em pastas específicas para cada etapa do processo incluindo, pré-processamento dos dados, redução de dimensionalidade com PCA, seleção de amostras com o método Kennard-Stone, método Jackknife para seleção de componentes e aplicação de modelos como PCR, PLSR, Random Forest, SVR e MLP.
+Este projeto tem como objetivo analisar dados de espectroscopia de uma variedade de manga utilizando técnicas de machine learning para identificar padrões e prever atributos de qualidade como Firmness (N)', 'Dry Mass (%)', 'TSS (Brix)', 'TA (g/mL)', 'AA (mg/100g)','Weight (g)','Width (mm)','Length (mm)'. O pipeline é organizado com base no código de Andressa (mais informações abaixo), o qual está dividido em pastas específicas para cada etapa do processo incluindo, pré-processamento dos dados, redução de dimensionalidade com PCA, seleção de amostras com o método Kennard-Stone, método Jackknife para seleção de componentes e aplicação de modelos como PCR, PLSR, Random Forest, SVR e MLP.
 
 ## Funcionalidades
 
